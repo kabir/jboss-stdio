@@ -43,6 +43,14 @@
         <version>6-beta-2</version>
     </parent>
 
+    <licenses>
+        <license>
+            <name>GNU Lesser General Public License v2.1 only</name>
+            <url>http://repository.jboss.org/licenses/lgpl-2.1.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
     <dependencies/>
     <build>
         <plugins>
